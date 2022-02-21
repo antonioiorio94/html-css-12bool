@@ -1,0 +1,10 @@
+/*---UTILITIES---*/
+
+.bg-blue{
+    background-color: cyan;
+    height: 3rem;
+}
+
+.border{
+    border-right: solid 0.2rem #9f4d4d;
+}
