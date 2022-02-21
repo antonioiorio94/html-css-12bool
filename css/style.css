@@ -8,3 +8,7 @@
 .border{
     border-right: solid 0.2rem #9f4d4d;
 }
+
+.row{
+    border-bottom: solid 0.2rem #9f4d4d;
+}
