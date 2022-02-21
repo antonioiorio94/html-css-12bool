@@ -2,13 +2,36 @@
 
 .bg-blue{
     background-color: cyan;
+    height: 4rem;
+}
+
+.bg-red {
+    background-color: #9f4d4d;
     height: 3rem;
 }
+
+.width80{
+    width: 80%;
+    margin: auto;
+}
+
 
 .border{
     border-right: solid 0.2rem #9f4d4d;
 }
 
-.row{
+.row-margin{
     border-bottom: solid 0.2rem #9f4d4d;
+}
+
+.nest-border{
+    border-right:solid 0.2rem cyan;
+
+}
+
+.nest-flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
 }
