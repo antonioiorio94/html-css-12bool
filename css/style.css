@@ -1,12 +1,14 @@
 /*---UTILITIES---*/
 
+
+
 .bg-blue{
     background-color: cyan;
     height: 4rem;
 }
 
 .bg-red {
-    background-color: #9f4d4d;
+    background-color: rgb(129, 55, 53);
     height: 3rem;
 }
 
@@ -17,11 +19,15 @@
 
 
 .border{
-    border-right: solid 0.2rem #9f4d4d;
+    border-right: solid 0.2rem #fff;
+}
+
+.margin{
+    margin-top: 2rem;
 }
 
 .row-margin{
-    border-bottom: solid 0.2rem #9f4d4d;
+    border-bottom: solid 0.2rem #fff;
 }
 
 .nest-border{
